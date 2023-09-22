@@ -4,3 +4,6 @@ Notre mission est de créer un réseau dynamique et vivant de jardins communauta
 Nous aspirons à transformer ces espaces en véritables centres d'échanges et de rencontres, où les citoyens peuvent se réunir, partager des expériences, participer à des événements et cultiver une passion pour la nature. 
 
 À travers notre application, nous facilitons l'accès à ces jardins, encourageons la participation active et contribuons à l'épanouissement collectif, tout en promouvant un mode de vie durable et respectueux de l'environnement.
+
+en image les templates donne ceci :
+![Capture d'écran 2023-09-22 214920](https://github.com/estebanbaigts/GreenMeet/assets/91676362/ee973fd2-7d5e-4339-a9f4-972974b54f1b)
