@@ -8,12 +8,5 @@ Nous aspirons à transformer ces espaces en véritables centres d'échanges et d
 en image les templates donne ceci :
 
 
-![Capture d'écran 2023-09-22 214920](https://github.com/estebanbaigts/GreenMeet/assets/91676362/ee973fd2-7d5e-4339-a9f4-972974b54f1b)
+![Capture d'écran 2023-09-22 214920](https://github.com/estebanbaigts/GreenMeet/assets/91676362/ee973fd2-7d5e-4339-a9f4-972974b54f1b)      ![Capture d'écran 2023-09-22 215320](https://github.com/estebanbaigts/GreenMeet/assets/91676362/d792045c-58af-4a9f-afac-a445a4e682d7)
 
-
-![Capture d'écran 2023-09-22 215320](https://github.com/estebanbaigts/GreenMeet/assets/91676362/d792045c-58af-4a9f-afac-a445a4e682d7)
-
-
-![Capture d'écran 2023-09-22 215331](https://github.com/estebanbaigts/GreenMeet/assets/91676362/ef3afe6f-54f6-49f0-9330-d76ec7b7cafa)
-
-![Capture d'écran 2023-09-22 215520](https://github.com/estebanbaigts/GreenMeet/assets/91676362/7d5627dd-bf58-4a29-bed3-d4337c941ed3)
