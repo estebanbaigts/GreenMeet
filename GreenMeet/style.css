@@ -1,0 +1,156 @@
+.accueil {
+  background-color: #c5c3c3;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.accueil .overlap-wrapper {
+  background-color: #c5c3c3;
+  height: 844px;
+  width: 390px;
+}
+
+.accueil .overlap {
+  background-image: url('background_acceuil.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 844px;
+  position: relative;
+}
+
+.accueil .image {
+  background-image : url('logo.png');
+  height: 110px;
+  left: 138px;
+  object-fit: cover;
+  position: absolute;
+  top: 722px;
+  width: 123px;
+}
+
+.accueil .title {
+  color: #ffffff;
+  font-family: "Mulish-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  height: 40px;
+  left: 0;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 81px;
+  width: 390px;
+}
+
+.accueil .group {
+  height: 44px;
+  left: 33px;
+  position: absolute;
+  top: 280px;
+  width: 334px;
+}
+
+.accueil .overlap-group {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #979797;
+  border-radius: 10px;
+  height: 44px;
+  position: relative;
+  width: 332px;
+}
+
+.accueil .text-wrapper {
+  color: #7b7b7b;
+  font-family: "Mulish-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 18px;
+  left: 129px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+}
+
+.accueil .overlap-group-wrapper {
+  height: 44px;
+  left: 32px;
+  position: absolute;
+  top: 387px;
+  width: 336px;
+}
+
+.accueil .subtitle-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #979797;
+  border-radius: 10px;
+  height: 44px;
+  position: relative;
+  width: 334px;
+}
+
+.accueil .subtitle {
+  color: #7b7b7b;
+  font-family: "Rubik-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 17px;
+  left: 119px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+}
+
+.accueil .submit-button {
+  height: 45px;
+  left: 100px;
+  position: absolute;
+  top: 545px;
+  width: 191px;
+}
+
+.accueil .title-wrapper {
+  background-color: #5780fa;
+  border-radius: 10px;
+  height: 50px;
+  position: relative;
+}
+
+.accueil .div {
+  color: var(--white);
+  font-family: "Mulish-Bold", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: 160px;
+}
+
+.accueil .title-2 {
+  color : white;
+  font-family: "Mulish-Bold", Helvetica;
+  font-size: 11px;
+  font-weight: 700;
+  height: 16px;
+  left: 115px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 599px;
+  width: 160px;
+}
