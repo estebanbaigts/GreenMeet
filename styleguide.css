@@ -1,3 +1,13 @@
 :root {
     --white: rgba(255, 255, 255, 1);
 }
+
+:root {
+    --black: rgba(62, 73, 88, 1);
+    --heading-1-font-family: "Quicksand-Bold", Helvetica;
+    --heading-1-font-size: 20px;
+    --heading-1-font-style: normal;
+    --heading-1-font-weight: 700;
+    --heading-1-letter-spacing: 0.20000000298023224px;
+    --heading-1-line-height: 28px;
+}

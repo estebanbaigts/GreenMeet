@@ -1,3 +1,4 @@
+Page dacceuil
 .accueil {
   background-color: #c5c3c3;
   display: flex;
@@ -153,4 +154,112 @@
   text-align: center;
   top: 599px;
   width: 160px;
+}
+
+
+.home {
+  background-color: #42b6a0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .overlap-wrapper {
+  background-color: #42b6a0;
+  height: 844px;
+  width: 390px;
+}
+
+.home .overlap-2 {
+  height: 844px;
+  position: relative;
+}
+
+.home .image {
+  height: 844px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.home .btn-loc-instance {
+  border-radius: 32px !important;
+  left: 324px !important;
+  position: absolute !important;
+  top: 612px !important;
+}
+
+.home .block-bg {
+  height: 118px;
+  left: 0;
+  position: absolute;
+  top: 726px;
+  width: 390px;
+}
+
+.home .ic-gesture-instance {
+  border-radius: 32px !important;
+  left: 180px !important;
+  position: absolute !important;
+  top: 691px !important;
+}
+
+.home .search-field-instance {
+  border-radius: 32px !important;
+  box-shadow: 0px 4px 4px #e2dfdf40 !important;
+  left: 42px !important;
+  position: absolute !important;
+  top: 777px !important;
+  width: 303px !important;
+}
+
+.home .design-component-instance-node {
+  background-image: url(gesture.png) !important;
+  width: 333px !important;
+}
+
+.home .navbar-x-instance {
+  border-radius: 32px !important;
+  left: 7px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.home .navbar-x-2 {
+  background-color: #5d9d32 !important;
+}
+
+.home .navbar-x-3 {
+  top: 9px !important;
+}
+
+.home .ic-gesture-2 {
+  border-radius: 32px !important;
+  left: 171px !important;
+  position: absolute !important;
+  top: 758px !important;
+}
+
+.home .group {
+  height: 43px;
+  left: 152px;
+  position: absolute;
+  top: 334px;
+  width: 34px;
+}
+
+.home .text-wrapper-2 {
+  color: #00000040;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 86px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 790px;
+  white-space: nowrap;
 }
