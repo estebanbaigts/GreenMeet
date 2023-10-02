@@ -1,22 +1,22 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useContext } from 'react';
 import { View, ImageBackground, Text, StyleSheet, TouchableOpacity, TextInput, Alert } from 'react-native';
 import * as Font from 'expo-font';
 import { useNavigation } from '@react-navigation/native';
 import loginData from './users.json'
+import { UserContext } from './MainPage/UserContext';
 
 export default function Accueil() {
   const [username, onUserNameChangeText] = React.useState(loginData.username);
   const [password, onPasswordChangeText] = React.useState(loginData.password);
   const navigation = useNavigation();
+  const { setCurrentUser } = useContext(UserContext);
 
   const handleConnexion = () => {
 
-    const validUser = loginData.users.some(
-      user => user.username === username && user.password === password
-    );
-
-    if (validUser) {
+    const user = loginData.users.find(user => user.username === username && user.password === password);
+    if (user) {
       console.log('Connexion réussie!');
+      setCurrentUser(user.username);
       navigation.navigate('Main');
     } else {
       console.log('Identifiant ou mot de passe incorrect');
@@ -37,7 +37,7 @@ export default function Accueil() {
         source={require('../assets/image34.png')}
       />
       <View style={styles.container}>
-        <Text style={[styles.customFontText, { fontFamily: 'Mulish-Bold' }]}>
+        <Text style={[styles.customFontText]}>
           {`Bienvenue sur GreenMeet`}
         </Text>
       </View>
@@ -95,8 +95,7 @@ const styles = StyleSheet.create({
     alignItems: "flex-start",
     rowGap: 0
   },
-  customFontText: {
-    fontFamily: 'Mulish', // Utilisez le nom que vous avez spécifié lors du chargement de la police
+  customFontText: { // Utilisez le nom que vous avez spécifié lors du chargement de la police
     fontSize: 25, // Ajoutez d'autres styles selon vos besoins
     color: 'white',
   },
@@ -133,7 +132,6 @@ const styles = StyleSheet.create({
     height: 40,
     textAlign: "center",
     color: "white",
-    fontFamily: "Mulish",
     fontSize: 32,
     fontWeight: "700",
     letterSpacing: 0.10867942869663239
@@ -163,7 +161,6 @@ const styles = StyleSheet.create({
     height: 17,
     textAlign: "center",
     color: "rgba(123, 123, 123, 1)",
-    fontFamily: "Mulish",
     fontSize: 14,
     fontWeight: "400",
     letterSpacing: 0.10867942869663239
@@ -175,7 +172,7 @@ const styles = StyleSheet.create({
     marginVertical: -10,
     backgroundColor: "white",
     borderWidth: 2,
-    borderColor: "balck",
+    borderColor: "black",
     borderRadius: 20,
   },
   identifiantLabel: {
@@ -197,7 +194,6 @@ const styles = StyleSheet.create({
   buttonText: {
     textAlign: "center",
     color: "white",
-    fontFamily: "Mulish",
     fontSize: 14,
     fontWeight: "700",
     letterSpacing: 0.10867942869663239,
@@ -206,7 +202,6 @@ const styles = StyleSheet.create({
   buttonText2: {
     textAlign: "center",
     color: "white",
-    fontFamily: "Mulish",
     fontSize: 14,
     fontWeight: "700",
     letterSpacing: 0.10867942869663239,
@@ -233,7 +228,6 @@ const styles = StyleSheet.create({
     height: 16,
     textAlign: "center",
     color: "rgba(255, 255, 255, 1)",
-    fontFamily: "Mulish",
     fontSize: 14,
     fontWeight: "700",
     letterSpacing: 0.10867942869663239
@@ -247,7 +241,6 @@ const styles = StyleSheet.create({
     height: 16,
     textAlign: "center",
     color: "rgba(255, 255, 255, 1)",
-    fontFamily: "Mulish",
     fontSize: 13,
     fontWeight: "800",
     letterSpacing: 0.10867942869663239

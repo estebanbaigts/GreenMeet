@@ -1,0 +1,5794 @@
+[
+    {
+        "nom_ev": "Ecobox",
+        "adresse": "10 impasse de la Chapelle",
+        "nom_gerant": "Eco Box",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DVD",
+        "statut_plu": null,
+        "amenagements": "composteur poulailler mini bassin aquatique dans ancienne baignoire",
+        "mail_1": "jardinecobox@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.358629896864472,
+                    48.89269558795182
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.358629896864472,
+            "lat": 48.89269558795182
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Un p'tit bol d'herbe",
+        "adresse": "6 rue de l'Ourcq",
+        "nom_gerant": "Un p'tit bol d'herbe",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUGELV",
+        "amenagements": "composteur cabane toit végétalisé mare",
+        "mail_1": "briouxcath@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.384550972709326,
+                    48.88803342590159
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.384550972709326,
+            "lat": 48.88803342590159
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Bernard Lafay",
+        "adresse": "226 rue de courcelles",
+        "nom_gerant": "ecole polyvalente boulevard de Reims",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "container maritime - fontaine à boire - dalle beton",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.294590593892678,
+                    48.88897141825577
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.294590593892678,
+            "lat": 48.88897141825577
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Ella Fitzgerald",
+        "adresse": "12 rue Ella Fitzgerald",
+        "nom_gerant": "Potager 21",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "abris bois - recouvrement sol avec 15cm de TV - bacs de cultures",
+        "mail_1": "potager21association@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3962535474624995,
+                    48.89650125860282
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3962535474624995,
+            "lat": 48.89650125860282
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin suspendu",
+        "adresse": "126 rue de Bagnolet",
+        "nom_gerant": "multi’colors",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": null,
+        "amenagements": "cabane récupérateur d'eau serre tables de jardinage",
+        "mail_1": "mail@multicolors.org",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4047934420827937,
+                    48.86059123726568
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4047934420827937,
+            "lat": 48.86059123726568
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardingue de Belleville",
+        "adresse": "17 rue des envierges",
+        "nom_gerant": "Archipelia",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "ZUGEVP",
+        "amenagements": "composteur",
+        "mail_1": "info@archipelia.org",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.387021891412031,
+                    48.87212285947995
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.387021891412031,
+            "lat": 48.87212285947995
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le jardin Saint Blaise",
+        "adresse": "Centre Chenal Saint-Blaise 14 rue du Clos",
+        "nom_gerant": "Esperem",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "ZUG",
+        "amenagements": "composteur",
+        "mail_1": "valerie.navarre@esperem.org",
+        "mail_2": null,
+        "internet_1": "https://esperem.org",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4068687215827516,
+                    48.856991621657976
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4068687215827516,
+            "lat": 48.856991621657976
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin aux habitants",
+        "adresse": "Palais de Tokyo 2 rue de la Manutention",
+        "nom_gerant": "Jardin aux habitants",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Etat",
+        "statut_plu": "ZUGELV",
+        "amenagements": "ruche",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": "https://palaisdetokyo.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.2961366819370523,
+                    48.864166104489335
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.2961366819370523,
+            "lat": 48.864166104489335
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le jardin enchanté",
+        "adresse": "5 rue Henri Ribiere",
+        "nom_gerant": "Amicale Ribière",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "ZUGEVP",
+        "amenagements": "composteur",
+        "mail_1": "lejardinenchante19@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.395275023479811,
+                    48.87649017598805
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.395275023479811,
+            "lat": 48.87649017598805
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Luquet",
+        "adresse": "Square Alexandre Luquet Impasse Piat",
+        "nom_gerant": "Archipelia",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUGEBC",
+        "amenagements": null,
+        "mail_1": "info@archipelia.org",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.386712957190427,
+                    48.87071198875052
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.386712957190427,
+            "lat": 48.87071198875052
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Verger Fleury",
+        "adresse": "40 rue Le Vau",
+        "nom_gerant": "Vergers Urbains",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": "vergersurbains@gmail.com",
+        "mail_2": null,
+        "internet_1": "http://vergersurbains.org/",
+        "internet_2": "https://www.facebook.com/ProjetVergersUrbains",
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4118111639331086,
+                    48.87274218373367
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4118111639331086,
+            "lat": 48.87274218373367
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Les 1001 feuilles",
+        "adresse": "Square Anne Franck 4 impasse Berthaud",
+        "nom_gerant": "Les 1001 Feuilles",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "PSMV MaraisEspace Vert Public à protéger",
+        "amenagements": "composteur du square cabane Récupération d'eau",
+        "mail_1": "les1001feuilles@orange.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.353988641667737,
+                    48.86131631839519
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.353988641667737,
+            "lat": 48.86131631839519
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Louis blanc",
+        "adresse": "6 rue Louis Blanc",
+        "nom_gerant": "La Maison du canal – Régie de quartier paris 10",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "EBC",
+        "amenagements": "serre container spirale à aromatique marre terrasse bacs hors sol",
+        "mail_1": "accueil@lamaisonducanal.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3692549092284527,
+                    48.8789588610599
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3692549092284527,
+            "lat": 48.8789588610599
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Square Jean Allemane",
+        "adresse": "4 rue Mercoeur",
+        "nom_gerant": "MJC Mercoeur",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUVZUGSU",
+        "amenagements": "9 bacs hors sol gites à insectes",
+        "mail_1": "contact@mercoeur.asso.fr",
+        "mail_2": null,
+        "internet_1": "mercoeur.asso.fr",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3831478525485976,
+                    48.85689464960514
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3831478525485976,
+            "lat": 48.85689464960514
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": null,
+        "adresse": "square de la rue Rene Binet",
+        "nom_gerant": null,
+        "type_espace_vert": null,
+        "type_jardin_partage": null,
+        "domaine": null,
+        "proprietaire_terrain": null,
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3383650443040938,
+                    48.899778398481885
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3383650443040938,
+            "lat": 48.899778398481885
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin du square Chanoine Viollet",
+        "adresse": "Square du Chanoine-Viollet 40 rue Hippolyte Maindron",
+        "nom_gerant": "Jardins des Couleurs",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur cabane",
+        "mail_1": "jardinsdescouleurs@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.321098450721666,
+                    48.83096025036564
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.321098450721666,
+            "lat": 48.83096025036564
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Bois Dormoy",
+        "adresse": "2 bis cité de la Chapelle",
+        "nom_gerant": "Le Bois Dormoy",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUGPérimètre de localisation d'équipement... d'intérêt général à réaliser(LS100%)",
+        "amenagements": "composteur cabane",
+        "mail_1": "dormoy@yahoo.fr",
+        "mail_2": null,
+        "internet_1": "http://boisdormoy.blogspot.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.359255055994103,
+                    48.88727511126265
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.359255055994103,
+            "lat": 48.88727511126265
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin partagé Rosiers Joseph Migneret",
+        "adresse": "10 rue des Rosiers",
+        "nom_gerant": "Les Jardiniers du 4ème",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "PSMV",
+        "amenagements": "cabane",
+        "mail_1": "jardiniers4@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3600991236116426,
+                    48.856889418274704
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3600991236116426,
+            "lat": 48.856889418274704
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Jardin de Théodore",
+        "adresse": "Square Théodore Monod 23 rue du fer à moulin",
+        "nom_gerant": "Le jardin de Théodore (s’est associé l’école Montessori)",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "cabane bacs sacs composteur",
+        "mail_1": "jardindetheodore@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3536483959414123,
+                    48.83891311100034
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3536483959414123,
+            "lat": 48.83891311100034
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin des Habitants",
+        "adresse": "179 rue de Charonne",
+        "nom_gerant": "Association des habitants du 179 rue de Charonne",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "80% Emmaus Habitat, société de parking, école privée ESGF (non considérée comme bailleur social)",
+        "statut_plu": "ZUGEVP",
+        "amenagements": null,
+        "mail_1": "associationhabitants179@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3924230397634587,
+                    48.85605873226234
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3924230397634587,
+            "lat": 48.85605873226234
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Hérold - intergénérationnel",
+        "adresse": "13 rue Francis Ponge",
+        "nom_gerant": "EHPAD + crèche",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.394497537760016,
+                    48.88242029677839
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.394497537760016,
+            "lat": 48.88242029677839
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "La terrasse du T3",
+        "adresse": "Square de la Justice 60 rue de la justice",
+        "nom_gerant": "La terrasse du T3",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUG",
+        "amenagements": "composteur armoire à outils abri à insectes Récupération d'eau",
+        "mail_1": "terrassedut3@gmail.com",
+        "mail_2": null,
+        "internet_1": "https://www.laterrassedut3.org/",
+        "internet_2": "https://www.facebook.com/LaterrasseduT3",
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4086870197587302,
+                    48.8684418354704
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4086870197587302,
+            "lat": 48.8684418354704
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le soulier des Fougères",
+        "adresse": "Square Frida Kahlo 18 rue de Noisy le Sec / rue des fougères 75020 Paris",
+        "nom_gerant": "Le soulier des Fougères",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "conteneur, composteur, abri à insectes",
+        "mail_1": "soulier.fougeres@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.412409477231945,
+                    48.87218581270694
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.412409477231945,
+            "lat": 48.87218581270694
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin des Délices",
+        "adresse": "10 impasse Satan",
+        "nom_gerant": "Jardin des délices",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUGELV",
+        "amenagements": "cabane sur dalle, composteur et récupérateur d'eau",
+        "mail_1": "lejardindesdelices20@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4031486944419393,
+                    48.85572854762127
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4031486944419393,
+            "lat": 48.85572854762127
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "L'îlot Léon",
+        "adresse": "Jardin Léon Zyguel 77 rue pixérécourt",
+        "nom_gerant": "L'îlot Léon",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "EVP",
+        "amenagements": "eau coffres à outils",
+        "mail_1": "assolilotleon@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.395705800305236,
+                    48.87445578185104
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.395705800305236,
+            "lat": 48.87445578185104
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Jardin d'Astrolabe",
+        "adresse": "22 rue Pierre Gourdault",
+        "nom_gerant": "Le Jardin d’Astrolabe",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "parcelles rehaussées, géotextile et apport de terre végétale - une clôture - un banc - un accès à l’eau - un abri à outils - 8 bacs de culture hors sol classique et",
+        "mail_1": "jardin-astrolabe@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.369943997999922,
+                    48.831024967477184
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.369943997999922,
+            "lat": 48.831024967477184
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Parcelle pédagogique du Square René Binet",
+        "adresse": "42 rue René Bidet",
+        "nom_gerant": "Ecole Maternelle Françoise Dorléac",
+        "type_espace_vert": null,
+        "type_jardin_partage": null,
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "verger, ferme pédagogique , arrosage automatique goutte",
+        "mail_1": "nathalie.ritter@paris.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.338360057205291,
+                    48.8997857030644
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.338360057205291,
+            "lat": 48.8997857030644
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin l'Univert",
+        "adresse": "35 rue Polonceau",
+        "nom_gerant": "Halage",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "ZUG",
+        "amenagements": "composteur cabane Récupération d'eau serre",
+        "mail_1": "stephane.bourdelet@halage.fr",
+        "mail_2": null,
+        "internet_1": "https://www.facebook.com/jardinlunivert/",
+        "internet_2": "https://www.halage.fr/",
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3518848943033523,
+                    48.885901783986256
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3518848943033523,
+            "lat": 48.885901783986256
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Hérold",
+        "adresse": "Jardin Hérold, 13 rue Francis Ponge",
+        "nom_gerant": "* Association Jardin solidaire : Espaces * Association de quartier : Débrouille et cie",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUGEVP",
+        "amenagements": "conteneur mare broyeur? (debrouille et compagnie?)",
+        "mail_1": "espaces@association-espaces.org",
+        "mail_2": "jardin.debrouille@gmail.com",
+        "internet_1": "association-espaces.org",
+        "internet_2": "http://www.debrouille.com/",
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.395081022659735,
+                    48.88247359419765
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.395081022659735,
+            "lat": 48.88247359419765
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Partagé du Square des Missions Etrangères",
+        "adresse": "105 rue du bac",
+        "nom_gerant": "Le jardin partagé du square des Missions Etrangères",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "PSMV 7ème arrtEspace Vert Public à protéger",
+        "amenagements": "hôtel à insectes meuble en palette bacs en palette abri",
+        "mail_1": "aygd@laposte.net",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3238005704712466,
+                    48.852586164720805
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3238005704712466,
+            "lat": 48.852586164720805
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "L'accueillette du 9ème",
+        "adresse": "TEP Valeyre 24 rue de Rochechouart",
+        "nom_gerant": "L'Accueillette du 9°",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DJS",
+        "statut_plu": "ZUG",
+        "amenagements": "abris",
+        "mail_1": "laccueillette@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3450215136898414,
+                    48.877967265776775
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3450215136898414,
+            "lat": 48.877967265776775
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Santerre",
+        "adresse": "107 rue de Reuilly",
+        "nom_gerant": "Association des résidents du 107",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "ZUG",
+        "amenagements": "composteurs",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": "http://jardinsanterre.blogspot.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3924064438468067,
+                    48.842610131821736
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3924064438468067,
+            "lat": 48.842610131821736
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le moissonneur des Lilas",
+        "adresse": "Jardin Serge Gainsbourg place du Maquis du Vercors",
+        "nom_gerant": "Le lien des Lilas",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUG",
+        "amenagements": "local",
+        "mail_1": "lemoissonneurdeslilas@gmail.com",
+        "mail_2": "leliendeslilas@gmail.com",
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.408584261697607,
+                    48.87792750930359
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.408584261697607,
+            "lat": 48.87792750930359
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le jardin de la Cité Aubry",
+        "adresse": "2 bis cité Aubry",
+        "nom_gerant": "Le jardin de la Cité Aubry",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUGEmplacement réservé pour espace vert public",
+        "amenagements": null,
+        "mail_1": "lejardindelacite@gmail.com",
+        "mail_2": null,
+        "internet_1": "https://www.lejardindelacite.com",
+        "internet_2": "https://fr-fr.facebook.com/jardinciteaubry",
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.395538392352498,
+                    48.857172317869235
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.395538392352498,
+            "lat": 48.857172317869235
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "jardin les moufettes",
+        "adresse": "3 passage des Patriarches",
+        "nom_gerant": "Les moufettes",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "24 m² de jardinières  maçonnées - 11 jardinières bacs bois et 1 PMR - 58 m² de  pavés enherbés - Un local de stockage de 9.40 m² -  Un point d’eau",
+        "mail_1": "jardinlesmouffettes@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3503522771858063,
+                    48.841089537134295
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3503522771858063,
+            "lat": 48.841089537134295
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Jardin d'Abel",
+        "adresse": "Square René Le Gall 5 rue Emile Deslandres",
+        "nom_gerant": "Le Jardin d'Abel",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteurs cabane table de jardinage",
+        "mail_1": "lejardindabel@gmail.com",
+        "mail_2": null,
+        "internet_1": "https://www.facebook.com/lejardindabel",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3502943676575896,
+                    48.83475201249388
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3502943676575896,
+            "lat": 48.83475201249388
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "le jardin des peintres",
+        "adresse": "23 rue Rubens",
+        "nom_gerant": "Fédération Nationale des Jardins Familiaux et Collectifs",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "ZUG",
+        "amenagements": "composteur cabane",
+        "mail_1": "contact@jardins-familiaux.asso.fr",
+        "mail_2": null,
+        "internet_1": "http://www.jardins-familiaux.asso.fr/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3564006158191497,
+                    48.833664372898234
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3564006158191497,
+            "lat": 48.833664372898234
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Fleurs de Bitume",
+        "adresse": "Square Pierre Adrien Dalpayrat,  23 rue du Cotentin",
+        "nom_gerant": "Fleurs de Bitume",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur cabane abri à insectes",
+        "mail_1": "fleursdebitume@yahoo.fr",
+        "mail_2": null,
+        "internet_1": "https://fleursdebitume.jimdofree.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.313525540098428,
+                    48.838529530254704
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.313525540098428,
+            "lat": 48.838529530254704
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Jardin Aux P'tits Oignons",
+        "adresse": "Square des Cévennes 3 rue Cauchy",
+        "nom_gerant": "Le jardin aux p'tits oignons",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur cabane",
+        "mail_1": "contact@lejardinauxptitsoignons.org",
+        "mail_2": null,
+        "internet_1": "http://lejardinauxptitsoignons.org/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.275146604735043,
+                    48.84342898467171
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.275146604735043,
+            "lat": 48.84342898467171
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Les Jardins de l'Orée du Bois",
+        "adresse": "Square Alexandre et René Parodi 1 Place de la Porte Maillot",
+        "nom_gerant": "Les Jardins de l'Orée du Bois",
+        "type_espace_vert": "Conseil de Paris",
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "cabane composteur",
+        "mail_1": "valerie_fobe@yahoo.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": "2021-07-05",
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.282181293718256,
+                    48.876852180403105
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.282181293718256,
+            "lat": 48.876852180403105
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Males'Herbes",
+        "adresse": "rue Rodolf Noureev",
+        "nom_gerant": "Association des Hauts de Malesherbes",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "terrassement bacs",
+        "mail_1": "hautsdemalesherbes@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.305926385352198,
+                    48.89182737618247
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.305926385352198,
+            "lat": 48.89182737618247
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Square de Jessaint",
+        "adresse": "36 boulevard de la Chapelle",
+        "nom_gerant": "Emmaüs Solidarité",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": "jardinsinsertion@emmaus.asso.fr",
+        "mail_2": null,
+        "internet_1": "https://www.emmaus-solidarite.org/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.358613594681286,
+                    48.884589767764865
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.358613594681286,
+            "lat": 48.884589767764865
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Charmante Petite Campagne Urbaine",
+        "adresse": "36 quai de la Marne",
+        "nom_gerant": "Espace 19",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUGEmplacement réservé",
+        "amenagements": "conteneur mare",
+        "mail_1": "contact@espace19.org",
+        "mail_2": null,
+        "internet_1": "http://www.espace19.org",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3841294158747837,
+                    48.8903060351216
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3841294158747837,
+            "lat": 48.8903060351216
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin partagé des boulistes de Ménilmontant",
+        "adresse": "Square Emmanuel Fleury, 40 rue le Vau",
+        "nom_gerant": "Amicale de boulistes de Ménilmontant",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUVEBC",
+        "amenagements": "local",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.410993273383833,
+                    48.869835693705724
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.410993273383833,
+            "lat": 48.869835693705724
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le jardin de la gare de Reuilly",
+        "adresse": "Maison des associations du 12e 181 avenue Daumesnil",
+        "nom_gerant": "Urbanescence",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "cabane - bacs hors sol",
+        "mail_1": "contact@urbanescence.org",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.39250677789425,
+                    48.8404878125828
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.39250677789425,
+            "lat": 48.8404878125828
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin de la résidence des Récollets",
+        "adresse": "148 rue du Faubourg St Martin",
+        "nom_gerant": "Jardin et PLU's",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "RIVP",
+        "statut_plu": "ZUG",
+        "amenagements": null,
+        "mail_1": "jardinsetplus10@googlegroups.com",
+        "mail_2": null,
+        "internet_1": "http://jardinsetplus.tumblr.com",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.360020335780583,
+                    48.87541661103406
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.360020335780583,
+            "lat": 48.87541661103406
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le jardin partagé Python Duvernois",
+        "adresse": "39 rue Joseph Pyton",
+        "nom_gerant": "Tous Ensemble",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUG",
+        "amenagements": null,
+        "mail_1": "tousensemblecpd@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.412608054801826,
+                    48.86412997962659
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.412608054801826,
+            "lat": 48.86412997962659
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin partagé solidaire Cavaillé Coll",
+        "adresse": "10 place Franz Liszt",
+        "nom_gerant": "Emmaüs Solidarité",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "stabilisé - coffre",
+        "mail_1": "jardinsinsertion@emmaus.asso.fr",
+        "mail_2": null,
+        "internet_1": "https://www.emmaus-solidarite.org/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3515113779554366,
+                    48.878294530111376
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3515113779554366,
+            "lat": 48.878294530111376
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin partagé Berthe Weill",
+        "adresse": "3 rue de Thorigny",
+        "nom_gerant": "Le Jardin Partagé Berthe Weill",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "décaissement au sol sur 60 à 80 cm d’épaisseur avec un apport de TV, une zone d’accès en stabilisé de 8 m2, un point d’eau avec robinet amovible, une corbeille de propreté type Bagatelle, une jardinière PMR en bois, un coffre en bois pour petit outillage",
+        "mail_1": "jardinbertheweill@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3622479842996857,
+                    48.85955154117143
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3622479842996857,
+            "lat": 48.85955154117143
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "monceau",
+        "adresse": "75008",
+        "nom_gerant": "école élémentaire et maternelle Monceau",
+        "type_espace_vert": "Conseil de Paris",
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "coffre banquette",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3090971504447237,
+                    48.87931712131293
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3090971504447237,
+            "lat": 48.87931712131293
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Les Jardins du Ruisseau",
+        "adresse": "PC 18 Clignancourt, 108 rue du Ruisseau",
+        "nom_gerant": "Les Amis des Jardins du Ruisseau",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "RFF loué à la Ville",
+        "statut_plu": "Zone urbaine de grands services urbains",
+        "amenagements": "composteur cabane Récupération d'eau ruches poulailler aquaponie bassin aquatique",
+        "mail_1": "contact@lesjardinsduruisseau.org",
+        "mail_2": null,
+        "internet_1": "https://www.facebook.com/jardinsduruisseau",
+        "internet_2": "http://lesjardinsduruisseau.fr/",
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.342263705682592,
+                    48.89701991455418
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.342263705682592,
+            "lat": 48.89701991455418
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin de la rue du Maroc",
+        "adresse": "26 rue du Maroc",
+        "nom_gerant": "Vivre ensemble à Maroc-Tanger",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "RIVP",
+        "statut_plu": "ZUGEVP",
+        "amenagements": null,
+        "mail_1": "vivreensemble2@wanadoo.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3685557664814367,
+                    48.88686762636342
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3685557664814367,
+            "lat": 48.88686762636342
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Nomade",
+        "adresse": "48 rue Trousseau",
+        "nom_gerant": "Association Quartier St Bernard",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DLH",
+        "statut_plu": "ZUG",
+        "amenagements": "composteur cabane spirale à insectes récupérateur d'eau de pluie gites à insecte nichoir à oiseaux",
+        "mail_1": "bureau@qsb11.org",
+        "mail_2": null,
+        "internet_1": "http://www.qsb11.org/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3792212004456044,
+                    48.85251242118797
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3792212004456044,
+            "lat": 48.85251242118797
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin parisien de Pantin",
+        "adresse": "18 rue Forceval",
+        "nom_gerant": "Le Jardin parisien de Pantin",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DVD",
+        "statut_plu": null,
+        "amenagements": "50cm de terre végétale d’apport séparée de la terre d’origine par une couche de gravier et un  géotextile pour la partie Est du jardin et pour la bande de terre le long du grillage avec le talus du périphérique\n-20cm de terre végétale d’apport séparée de",
+        "mail_1": "jardinparisiendepantin@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.391380354837788,
+                    48.900489354506384
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.391380354837788,
+            "lat": 48.900489354506384
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Saint Laurent",
+        "adresse": "119 rue du Faubourg St Martin",
+        "nom_gerant": "Emmaüs solidarité",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "cabane",
+        "mail_1": "jardinsinsertion@emmaus.asso.fr",
+        "mail_2": null,
+        "internet_1": "https://www.emmaus-solidarite.org/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3585341478590114,
+                    48.87447065461863
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3585341478590114,
+            "lat": 48.87447065461863
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Ombrelle et coccinelle",
+        "adresse": "159 rue Croix Nivert",
+        "nom_gerant": "Ombrelle et coccinelle",
+        "type_espace_vert": "Autre",
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "Emplacement réservé en vue de la réalisation de logement",
+        "amenagements": "cabane composteur",
+        "mail_1": "contact@ombcoc.fr",
+        "mail_2": null,
+        "internet_1": "https://ombrelleetcoccinelle.wordpress.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.290746184591024,
+                    48.8403217052234
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.290746184591024,
+            "lat": 48.8403217052234
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Les jardins de Camille",
+        "adresse": "PC 16 la muette 14 boulevard de Beauséjour",
+        "nom_gerant": "les jardins de Camille",
+        "type_espace_vert": "Conseil de Paris",
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "SNCF réseau",
+        "statut_plu": null,
+        "amenagements": "15 bacs hors sol avec lame d'aire cabane eau cloturette en bois",
+        "mail_1": "jardinpartage75116@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.2711784002316953,
+                    48.85774154064471
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.2711784002316953,
+            "lat": 48.85774154064471
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Les Mots et Merveilles",
+        "adresse": "Square Paul Nizan 9 rue de l'industrie",
+        "nom_gerant": "Les Peupliers",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "cabane",
+        "mail_1": "lespeupliers.association@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3571904952036284,
+                    48.82254063426509
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3571904952036284,
+            "lat": 48.82254063426509
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "potager de Bercy",
+        "adresse": "41, rue Paul Belmondo",
+        "nom_gerant": "Asso Tournesol - EM Pommard - CL Pommard - EM Lachambeaudie - Asso \"didot accompagnement\"",
+        "type_espace_vert": "Conseil de Paris",
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "composteur - casier grillagés",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.382086335425838,
+                    48.836101386761214
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.382086335425838,
+            "lat": 48.836101386761214
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Les ombres potagères",
+        "adresse": "20 rue de Fontarabie",
+        "nom_gerant": "Les Ombres Potagères",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "eau abris cloture",
+        "mail_1": "ombrespotageres@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4011426104318043,
+                    48.857510153823895
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4011426104318043,
+            "lat": 48.857510153823895
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Jardin d'Augustin",
+        "adresse": "6 rue Augustin Thierry",
+        "nom_gerant": "La Maison de la Place des Fêtes",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Icf Habitat",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": "jardinaugustin75019@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3946041857847704,
+                    48.87625409863996
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3946041857847704,
+            "lat": 48.87625409863996
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "jardin partagé Chapelle Charbon",
+        "adresse": "Parc Chapelle Charbon, rue du pré",
+        "nom_gerant": "Vergers Urbains",
+        "type_espace_vert": "Conseil de Paris",
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "une couche drainante, comprise entre deux géotextiles, surmontée d’une couche de 1m de terre végétale : deux fontaines à boire - trois bouches d’arrosage - une grillette parisienne de 1m de haut et trois portillons - une haie champêtre",
+        "mail_1": "vergersurbains@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3621033690003084,
+                    48.8974350132832
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3621033690003084,
+            "lat": 48.8974350132832
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin de la Place Fréhel",
+        "adresse": "54 rue de Belleville",
+        "nom_gerant": "Slam Production",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DVD",
+        "statut_plu": null,
+        "amenagements": "jardinières",
+        "mail_1": "slamproduction@orange.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.381658682429913,
+                    48.873065631366856
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.381658682429913,
+            "lat": 48.873065631366856
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin du Square Delaporte",
+        "adresse": "17 avenue Delaporte",
+        "nom_gerant": "La Belle Verte",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "abri grillagé\narrivée d'eau\npanneau d'affichage",
+        "mail_1": "bonjour@larecoltecitadine.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4134322162422333,
+                    48.848508261108975
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4134322162422333,
+            "lat": 48.848508261108975
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin de Falbala",
+        "adresse": "Jardin du Moulin de la Vierge 20 rue de Gergovie",
+        "nom_gerant": "le Jardin partagé de Falbala",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur cabane",
+        "mail_1": "jardindefalbala@gmail.com",
+        "mail_2": null,
+        "internet_1": "http://jardindefalbala.blogspot.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3141579340456793,
+                    48.83398441687981
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3141579340456793,
+            "lat": 48.83398441687981
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Jardin de l'Echo",
+        "adresse": "Jardin Debergue-rendez-vous 1 Cité Debergue",
+        "nom_gerant": "L'écho des Autres",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur cabane",
+        "mail_1": "lechodesautres@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4037703975411526,
+                    48.8456809554437
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4037703975411526,
+            "lat": 48.8456809554437
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Garden l'EST",
+        "adresse": "46 rue d' Alsace",
+        "nom_gerant": "Garden l'EST",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "une couche de terre végétale de 30cm d’épaisseur recouvrant un dispositif d’étanchéïté une arrivée d’eau, et compteur divisionnaire un panneau d’affichage double un coffre à outils",
+        "mail_1": "Jardin.garden.lest@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3587780490429724,
+                    48.87890818824987
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3587780490429724,
+            "lat": 48.87890818824987
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le jardin des coopains",
+        "adresse": "Parc Clichy-Batignolles - Martin Luther-King, 11 bis Boulevard Berthier",
+        "nom_gerant": "Le jardin des coopains",
+        "type_espace_vert": "Conseil de Paris",
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "cabane composteur Oyas",
+        "mail_1": "jardin.coopains@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.312168414976903,
+                    48.893584509362576
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.312168414976903,
+            "lat": 48.893584509362576
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le 56",
+        "adresse": "56 rue Saint Blaise",
+        "nom_gerant": "Le 56",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "ZUGEVP",
+        "amenagements": "composteur Récupération d'eau toilettes sèches abri ruches",
+        "mail_1": "le56contact@gmail.com",
+        "mail_2": null,
+        "internet_1": "https://56stblaise.wordpress.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4071345526884302,
+                    48.85791712718219
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4071345526884302,
+            "lat": 48.85791712718219
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Bashung",
+        "adresse": "16 rue de Jéssaint",
+        "nom_gerant": "La Goutte Verte",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUG",
+        "amenagements": "local et composteur",
+        "mail_1": "goutteverte@yahoo.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3562272617313655,
+                    48.88545117079747
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3562272617313655,
+            "lat": 48.88545117079747
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Lapin Ouvrier",
+        "adresse": "Jardin Françoise-Héritier place de la Garenne",
+        "nom_gerant": "Le Lapin Ouvrier",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteurs cabane spirale à insectes mini mare dans un demi tonneau",
+        "mail_1": "le.lapin.ouvrier@hotmail.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.320159825992656,
+                    48.83366765403465
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.320159825992656,
+            "lat": 48.83366765403465
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Saint Serge",
+        "adresse": "Eglise St Serge 93 rue de Crimée",
+        "nom_gerant": "Jardin Saint Serge",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Institut de Théologie Orthodoxe Saint Serge",
+        "statut_plu": "ZUGEVPBâtiment protégé",
+        "amenagements": "composteur Récupération d'eau broyeur",
+        "mail_1": "jpp.lejardinier@free.fr",
+        "mail_2": null,
+        "internet_1": "http://www.jardin-saintserge.fr/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3844897620014054,
+                    48.88382658817876
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3844897620014054,
+            "lat": 48.88382658817876
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "L’îlot Lilas",
+        "adresse": "295 rue de Belleville",
+        "nom_gerant": "L’Ilot Lilas",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "Voie publique ou privée",
+        "amenagements": "composteur cabane poulailler mare",
+        "mail_1": "jardin.lilolila@outlook.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4022945230849957,
+                    48.8760338115303
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4022945230849957,
+            "lat": 48.8760338115303
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le p'tit lopin",
+        "adresse": "Ecole Du breuil Route de la Ferme",
+        "nom_gerant": "Le p'tit lopin",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": "Ptit.lopin@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4540848845748395,
+                    48.821978376641646
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4540848845748395,
+            "lat": 48.821978376641646
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Fessart",
+        "adresse": "45 rue Fessart",
+        "nom_gerant": "Le jardin Fessart",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUGPérimètre de localisation d'équipement… d'intérêt général",
+        "amenagements": "composteur cabane",
+        "mail_1": "jardinfessart@numericable.fr",
+        "mail_2": null,
+        "internet_1": "http://jardin-fessart.over-blog.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3840543418034366,
+                    48.87671445699608
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3840543418034366,
+            "lat": 48.87671445699608
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Jardin sur le Toit",
+        "adresse": "Gymnase des Vignoles 91 rue des Haies",
+        "nom_gerant": "Esperem",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUG",
+        "amenagements": "composteur ruchette pédagogique poulailler",
+        "mail_1": "valerie.navarre@esperem.org",
+        "mail_2": null,
+        "internet_1": "https://esperem.org",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4039028910253415,
+                    48.85524050254698
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4039028910253415,
+            "lat": 48.85524050254698
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "jardin partagé de la rue Annie Girardot",
+        "adresse": "14 rue Annie Girardot",
+        "nom_gerant": "Maison 13 solidaire",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "deux jardinières sur dalle avec système drainant  et terre végétale - une arrivée d’eau - 5 placards - un panneau d’affichage",
+        "mail_1": "accueil@maison13solidaire.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3479299858242593,
+                    48.82138721835102
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3479299858242593,
+            "lat": 48.82138721835102
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "jardin partagé de la rue de lancry",
+        "adresse": "13 rue de Lancry",
+        "nom_gerant": "association CRL10",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "décaissement avec apport de terre - panneau",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": "http://www.crl10.net/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3603470841551273,
+                    48.86950039634418
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3603470841551273,
+            "lat": 48.86950039634418
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "1,2,3 jardins",
+        "adresse": "59 rue St blaise",
+        "nom_gerant": "1,2,3 jardins",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "ZUG",
+        "amenagements": "composteur",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4082562389647664,
+                    48.857433231175584
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4082562389647664,
+            "lat": 48.857433231175584
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Aligresse",
+        "adresse": "Jardin Léo Ferré 3 impasse Druinot",
+        "nom_gerant": "Commune Libre d’Aligre",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUGELV",
+        "amenagements": "composteur cabane Récupération d'eau mare keyhole coffre à outils serre",
+        "mail_1": "contact@cl-aligre.org",
+        "mail_2": "lacommune.aligre@orange.fr",
+        "internet_1": "http://www.cl-aligre.org",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.380656385506315,
+                    48.84983063317293
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.380656385506315,
+            "lat": 48.84983063317293
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin faure'midable",
+        "adresse": "Résidence RIVP Elie Faure 21 rue du chaffault",
+        "nom_gerant": "Jardin Faure'midable",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "RIVP",
+        "statut_plu": null,
+        "amenagements": "décaissement sur 30cm + géotextile+Terre Végétaleune zone stabilisée cabane composteurs récupérateur d'eau de pluie gite à insectes grainothèque",
+        "mail_1": "jardinfauremidable@gmail.com",
+        "mail_2": null,
+        "internet_1": "https://www.facebook.com/jardinfauremidable/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4152020905630165,
+                    48.84529587109845
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4152020905630165,
+            "lat": 48.84529587109845
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Michelet",
+        "adresse": "46, rue Boussingault",
+        "nom_gerant": "Centre Michelet",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3431593156770174,
+                    48.825904392658636
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3431593156770174,
+            "lat": 48.825904392658636
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Pereire",
+        "adresse": "21 rue Guersant",
+        "nom_gerant": "école maternelle Bayen - ecole Montessori",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.2895826184734207,
+                    48.88079971805017
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.2895826184734207,
+            "lat": 48.88079971805017
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Jean Genet",
+        "adresse": "156 rue Raymond Losserand",
+        "nom_gerant": "Jardin Jean Genet",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "ZUGEVP",
+        "amenagements": "cabane",
+        "mail_1": "clergerie.cath@free.fr",
+        "mail_2": null,
+        "internet_1": "http://jardin-jean-genet.blogspot.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3113377449307855,
+                    48.83058722620451
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3113377449307855,
+            "lat": 48.83058722620451
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Pommier des Amandiers",
+        "adresse": "3 rue Elisa Borey",
+        "nom_gerant": "Le Pommier des Amandiers",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "bacs en palette",
+        "mail_1": "contact@lepommierdesamandiers.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": "2021-01-11",
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.390402141438679,
+                    48.866353336091656
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.390402141438679,
+            "lat": 48.866353336091656
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Juliette Dodu",
+        "adresse": "1 rue de Sambre-Et-Meuse",
+        "nom_gerant": "école maternelle Vicq d'Azir",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "évier pour enfants - espace pour outils le long de la cabane fermé avec une porte",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3692916562197763,
+                    48.875439132450204
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3692916562197763,
+            "lat": 48.875439132450204
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "colbert",
+        "adresse": "159 rue de charonne",
+        "nom_gerant": "culture en herbe",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "coffre",
+        "mail_1": "culturesenherbes2@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3897220231672995,
+                    48.85609813526598
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3897220231672995,
+            "lat": 48.85609813526598
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Partagé des Olympiades",
+        "adresse": "Dalle des Olympiades",
+        "nom_gerant": "Association Jardin Partagé Olympiades",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "ZUG",
+        "amenagements": "cloture cabane",
+        "mail_1": "jardinolympiades@gmail.com",
+        "mail_2": null,
+        "internet_1": "https://www.facebook.com/jardinolympiades",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3645140498879544,
+                    48.825855187232975
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3645140498879544,
+            "lat": 48.825855187232975
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Vert Tige",
+        "adresse": "24 rue de Coulmier",
+        "nom_gerant": "Vert -Tige",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "RFF",
+        "statut_plu": "Zone Urbaine de Grands Services UrbainsEmplacement réservé pour espace vert public",
+        "amenagements": "composteur cabane",
+        "mail_1": "jardin.vert.tige@gmail.com",
+        "mail_2": null,
+        "internet_1": "http://www.vert-tige.org/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3228560592718916,
+                    48.82512332147638
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3228560592718916,
+            "lat": 48.82512332147638
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Trèfle d’Eole",
+        "adresse": "Jardins d’Eole 45 rue d'Aubervilliers",
+        "nom_gerant": "Trèfle d’Eole",
+        "type_espace_vert": "Conseil de Paris",
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur cabane une jardinière-bassin pour plantes aquatiques",
+        "mail_1": "contact@trefledeole.fr",
+        "mail_2": null,
+        "internet_1": "https://www.trefledeole.fr/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.366838861916582,
+                    48.88725567457576
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.366838861916582,
+            "lat": 48.88725567457576
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Les Petits Passages",
+        "adresse": "33 rue Petit",
+        "nom_gerant": "J2P: Jaurès Pantin Petit",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUG",
+        "amenagements": "composteur cabane recup eau",
+        "mail_1": "associationj2p@gmail.com",
+        "mail_2": null,
+        "internet_1": "http://www.associationj2p.org/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.382648686280655,
+                    48.884954894795776
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.382648686280655,
+            "lat": 48.884954894795776
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Cité Industrielle",
+        "adresse": "31 cité industrielle",
+        "nom_gerant": "Cité Industrielle Environnement",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUG",
+        "amenagements": "composteur cabane nichoir à oiseaux",
+        "mail_1": "cite.industrielle.environnement@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3802734197188196,
+                    48.85937999046461
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3802734197188196,
+            "lat": 48.85937999046461
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le potager de Georges",
+        "adresse": "3 Square Georges Contenot (accessible par le 75-77 rue Claude Decaen)",
+        "nom_gerant": "Le potager de Georges",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "EVP",
+        "amenagements": "bacs compost cabane serre",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3970204559149453,
+                    48.83770858350269
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3970204559149453,
+            "lat": 48.83770858350269
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Paul paray",
+        "adresse": "24 rue christine de Pisan",
+        "nom_gerant": "Collège La Rose blanche",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.307861371196954,
+                    48.889719935659166
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.307861371196954,
+            "lat": 48.889719935659166
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin partagé du Bas-Belleville",
+        "adresse": "14 Cité de Gênes",
+        "nom_gerant": "Crescendo-Centre Social et Culturel La maison du bas Belleville",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DVD",
+        "statut_plu": "Voie publique ou privéeaménagement piéton",
+        "amenagements": null,
+        "mail_1": "maison.bas-belleville@groupe-sos.org",
+        "mail_2": null,
+        "internet_1": "www.maisonbasbelleville.org",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3828148545877927,
+                    48.87065702769651
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3828148545877927,
+            "lat": 48.87065702769651
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "La Maison Violette",
+        "adresse": "Maison communale Violet 69 rue Violet",
+        "nom_gerant": "La Maison violette",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUGEVP",
+        "amenagements": "poulailler",
+        "mail_1": "jp.lamaisonviolette@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.2914246563971914,
+                    48.84561082865981
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.2914246563971914,
+            "lat": 48.84561082865981
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Yilmaz Güney",
+        "adresse": "25, 27 rue de l'Echiquier",
+        "nom_gerant": "école élémentaire 34 rue du Faubourg Saint Denis",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3507069035640713,
+                    48.87111003164852
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3507069035640713,
+            "lat": 48.87111003164852
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin de NOUR",
+        "adresse": "parc Sainte Périne 39 rue Mirabeau",
+        "nom_gerant": "NOUR",
+        "type_espace_vert": "Conseil de Paris",
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "APHP",
+        "statut_plu": null,
+        "amenagements": "coffre compost bacs avec système drainant",
+        "mail_1": "noursolidarite@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.2690205939764083,
+                    48.84586739552512
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.2690205939764083,
+            "lat": 48.84586739552512
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "La Note Bleue",
+        "adresse": "Square Frédéric Rossif 175 rue de Charenton",
+        "nom_gerant": "Graine de partage(en partenariat avec La Note bleue )",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "cabane table de jardinage",
+        "mail_1": "grainedp@yahoo.fr",
+        "mail_2": null,
+        "internet_1": "http://grainedepartage.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3850883738271023,
+                    48.84356851346512
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3850883738271023,
+            "lat": 48.84356851346512
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "A la bonne herbe",
+        "adresse": "place Marcel Achard",
+        "nom_gerant": "\"association Belle Ville ABV\"(Centre socioculturel Belleville)",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "cabane fruitiers en cordon",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": "https://centresocioculturelbelleville.fr/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3763482528568227,
+                    48.87397041966855
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3763482528568227,
+            "lat": 48.87397041966855
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin des Tourelles",
+        "adresse": "18 passage des tourelles",
+        "nom_gerant": "Jardin des Tourelles",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": "jardin.tourelles@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4042650789250652,
+                    48.875518862095184
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4042650789250652,
+            "lat": 48.875518862095184
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Potager des Oiseaux",
+        "adresse": "3 rue des Oiseaux",
+        "nom_gerant": "Les jardiniers du 3ème",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "PSMV Marais",
+        "amenagements": "cabane toit végétalisé",
+        "mail_1": "potagerdesoiseaux@gmail.com",
+        "mail_2": null,
+        "internet_1": "http://potagerdesoiseaux.blogspot.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.361789533379203,
+                    48.862984142914826
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.361789533379203,
+            "lat": 48.862984142914826
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Les jardins de la rue verte",
+        "adresse": "Centre d’animation Maurice Ravel 6 avenue Maurice Ravel (différents sites dans cette rue, cf fiche )",
+        "nom_gerant": "Ligue de l’enseignement(avec délégation de service public au Centre d’animation Maurice Ravel )",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DJS",
+        "statut_plu": null,
+        "amenagements": "marepoulailler",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.411746714450299,
+                    48.8418061936297
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.411746714450299,
+            "lat": 48.8418061936297
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin partagé choisi",
+        "adresse": "Parc de Choisy rue Georges Eastman",
+        "nom_gerant": "Association jardin partagé choisi",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUVEBC",
+        "amenagements": "cabane composteur Recupérateur d'eau",
+        "mail_1": "c.chauchot@sfr.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3591159048076373,
+                    48.82895978200122
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3591159048076373,
+            "lat": 48.82895978200122
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Clos Garcia",
+        "adresse": "17 rue Cristino Garcia",
+        "nom_gerant": "Le Clos Garcia",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "RIVP entretenu par la ville. Bail emphytéotique",
+        "statut_plu": "ZUGEVP",
+        "amenagements": "cabane Récupération d'eau toilettes sèches",
+        "mail_1": "closgarcia@free.fr",
+        "mail_2": null,
+        "internet_1": "http://closgarcia.free.fr/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4134530277249557,
+                    48.84988349077979
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4134530277249557,
+            "lat": 48.84988349077979
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Potager des deux moulins",
+        "adresse": "jardin des Deux Moulins 78 avenue Edison",
+        "nom_gerant": null,
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "bacs abri panneau d'affichage",
+        "mail_1": "potagerdes2moulins@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.357659605113902,
+                    48.830466463613284
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.357659605113902,
+            "lat": 48.830466463613284
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Bel-Air",
+        "adresse": "Square Charles Péguy 21 rue Rottembourg",
+        "nom_gerant": "Graine de partage",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "DEVE + RFF",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur cabane mare bac surélevé",
+        "mail_1": "grainedp@yahoo.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.406549295245265,
+                    48.83849258921217
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.406549295245265,
+            "lat": 48.83849258921217
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le jardin de la félicité",
+        "adresse": "face au 20 rue de la Sainte Félicité",
+        "nom_gerant": "Les amis du jardin de la félicité",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DJS",
+        "statut_plu": "ZUG",
+        "amenagements": "système drainant composteurs cabane panneaux solaires",
+        "mail_1": "contact@jardin-de-la-felicite.fr",
+        "mail_2": "alain@jardin-de-la-felicite.fr",
+        "internet_1": "http://www.jardin-de-la-felicite.fr/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.304444747614126,
+                    48.839106468226305
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.304444747614126,
+            "lat": 48.839106468226305
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin de Perlimpinpin",
+        "adresse": "Parc Clichy-Batignolles - Martin Luther-King, 166 rue du Cardinet",
+        "nom_gerant": "Jardin de Perlimpinpin",
+        "type_espace_vert": "Conseil de Paris",
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteurs cabane mare",
+        "mail_1": "michel_dannielou@yahoo.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3169135574048387,
+                    48.88976025254181
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3169135574048387,
+            "lat": 48.88976025254181
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin des Soupirs",
+        "adresse": "18 passage des Soupirs",
+        "nom_gerant": "Association du passage des Soupirs",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUGEVP",
+        "amenagements": "composteur cabane mare",
+        "mail_1": "jardindessoupirs@gmail.com",
+        "mail_2": null,
+        "internet_1": "https://jardindessoupirs.wordpress.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.396579048468619,
+                    48.86891426469217
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.396579048468619,
+            "lat": 48.86891426469217
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Brassens",
+        "adresse": "2 place Jacques Marette",
+        "nom_gerant": "école élémentaire 15 rue de Cherbourg",
+        "type_espace_vert": "Conseil de Paris",
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.2999123781531727,
+                    48.832643577800184
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.2999123781531727,
+            "lat": 48.832643577800184
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Centre de la Terre",
+        "adresse": "Square Jules Verne 19 bis rue de l'Orillon",
+        "nom_gerant": "Chemins Verts",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur armoire à outils",
+        "mail_1": "asso.cheminsverts@gmail.com",
+        "mail_2": null,
+        "internet_1": "https://lecentredelaterre.wordpress.com",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3750646312449724,
+                    48.87050713662478
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3750646312449724,
+            "lat": 48.87050713662478
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Partagé Truillot",
+        "adresse": "82 boulevard Voltaire",
+        "nom_gerant": "Association du Jardin Partagé Truillot",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "2 coffres métalliques",
+        "mail_1": "jardinpartage.truillot@gmail.com",
+        "mail_2": null,
+        "internet_1": "http://jardinpartagetruillot.blogspot.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3746912251665724,
+                    48.8608425077249
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3746912251665724,
+            "lat": 48.8608425077249
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le jardin insolite",
+        "adresse": "Square Louis Lumière 30 rue Louis Lumière",
+        "nom_gerant": "Môm'Ganne / Réseau Môm'artre",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur",
+        "mail_1": "rueganne@gmail.com",
+        "mail_2": null,
+        "internet_1": "www.momartre.net",
+        "internet_2": null,
+        "date_fermeture": "2021-04-12",
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.411645689967435,
+                    48.859198214906925
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.411645689967435,
+            "lat": 48.859198214906925
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin partagé Césaria Evora",
+        "adresse": "33 A quai de la gironde",
+        "nom_gerant": "Rosa Paks (Paris)",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "revêtement en stabilisé - espace de convivialité en pavés enherbés - 1 conteneur -  bacs - clôture avec un portillon",
+        "mail_1": "contact@centrerosaparks.paris",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3802824487365055,
+                    48.89806687594494
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3802824487365055,
+            "lat": 48.89806687594494
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "jardin des p'tits voisins",
+        "adresse": "impasse des jardiniers",
+        "nom_gerant": "Les p'tits voisins du 11ème",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "eau - bacs",
+        "mail_1": "lesptitsvoisins@ntymail.com",
+        "mail_2": null,
+        "internet_1": "https://www.facebook.com/lespetitsvoisinsdu11eme",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3910786202448886,
+                    48.85214501194983
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3910786202448886,
+            "lat": 48.85214501194983
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin des couleurs",
+        "adresse": "1 rue des Mariniers",
+        "nom_gerant": "Jardins des couleurs",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "local composteur table surélevé pour fauteuils",
+        "mail_1": "jardinsdescouleurs@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3115373185997203,
+                    48.8276105919817
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3115373185997203,
+            "lat": 48.8276105919817
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Les jardins de la douve",
+        "adresse": "Jardin Anna Marly 25 avenue de la porte de Vanves",
+        "nom_gerant": "Les jardins de la douve",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUG",
+        "amenagements": "récupérateur d'eau cabane",
+        "mail_1": "bureau@lesjardinsdeladouve.org",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3043683491105096,
+                    48.82507714570061
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3043683491105096,
+            "lat": 48.82507714570061
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin des Apprentis-Sages",
+        "adresse": "15 bis rue Jules Romains",
+        "nom_gerant": "Centre socio-culturel de Belleville",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Bailleurs Lebaudy et Batigère (non considéré comme bailleur social)",
+        "statut_plu": "ZUG",
+        "amenagements": null,
+        "mail_1": "jardindesapprentissages@gmail.com",
+        "mail_2": null,
+        "internet_1": "http://www.centresocialbelleville.net/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3775819681850168,
+                    48.873734803833244
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3775819681850168,
+            "lat": 48.873734803833244
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Les jardins passagers",
+        "adresse": null,
+        "nom_gerant": "Etablissement Public du Parc et de la Grande Halle de La Villette",
+        "type_espace_vert": "Autre",
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Etat",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur mare abri table de jardinage",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": "villette.com/votre-visite/les-jardins-passagers",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3901476567878484,
+                    48.89249322970249
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3901476567878484,
+            "lat": 48.89249322970249
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin des Poètes",
+        "adresse": "10 rue Francis Jammes",
+        "nom_gerant": "CRL 10 centre d'animation la Grange aux Belles",
+        "type_espace_vert": "Autre",
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "SIEMP",
+        "statut_plu": "ZUGsans doute sur une zone EVP",
+        "amenagements": null,
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": "http://www.grange-aux-belles.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.368544891601185,
+                    48.87853706826984
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.368544891601185,
+            "lat": 48.87853706826984
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin d'Olga",
+        "adresse": "Square Olga Bancic 34 rue Godefroy Cavaignac",
+        "nom_gerant": "Le Jardin d'Olga",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "cabane composteur surface = 52m² composés de 13 bacs de 4m² chacun gite à insectes, nichoirs à oiseaux",
+        "mail_1": "jardindolga@gmail.com",
+        "mail_2": null,
+        "internet_1": "http://jardindolga.canalblog.com",
+        "internet_2": "https://www.facebook.com/Le-Jardin-dOlga-108103513915114",
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3806831425668875,
+                    48.85608194910104
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3806831425668875,
+            "lat": 48.85608194910104
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Les haies partagées",
+        "adresse": "Jardin Casque d’Or 39b rue des Haies",
+        "nom_gerant": "Ass. du Jardin Partagé de Casque d’Or",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur Récupération d'eau mare",
+        "mail_1": "haies.partagees@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4014026104821253,
+                    48.85340083418657
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4014026104821253,
+            "lat": 48.85340083418657
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Papilles et Papillons",
+        "adresse": "3 rue Gasnier Guy",
+        "nom_gerant": "Régie de Quartier «Papilles et Papillons»",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "SIEMP",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur",
+        "mail_1": "papillesetpapillons@yahoo.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3928634128029973,
+                    48.86513501362819
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3928634128029973,
+            "lat": 48.86513501362819
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Partagé du Square Ozanam",
+        "adresse": "Square Ozanam - 18 rue Stanislas 75006",
+        "nom_gerant": "Jardin partagé du Square Ozanam",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "3 bacs de culture, coffre à outils",
+        "mail_1": "jardinpartageozanam@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3273895239598645,
+                    48.843197035916624
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3273895239598645,
+            "lat": 48.843197035916624
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Don Bosco",
+        "adresse": "79 rue Alexandre Dumas",
+        "nom_gerant": "Charonne Planchat",
+        "type_espace_vert": "Autre",
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paroisse St Jean Bosco",
+        "statut_plu": null,
+        "amenagements": "compost bacs",
+        "mail_1": "sjb.laudatosi@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3976368014050844,
+                    48.85525406443057
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3976368014050844,
+            "lat": 48.85525406443057
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Des tours au jardin",
+        "adresse": "Villa d'Este",
+        "nom_gerant": "Des tours au jardin",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "cabane composteur serre panneaux solaires",
+        "mail_1": "dtajbureau@googlegroups.com",
+        "mail_2": null,
+        "internet_1": "https://sites.google.com/view/destoursaujardin/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.366675207910563,
+                    48.82198890813528
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.366675207910563,
+            "lat": 48.82198890813528
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Oasis de Koufra",
+        "adresse": "Square Serment de Koufra rue de la Légion étrangère",
+        "nom_gerant": "L'Oasis de Koufra",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": "loasisdekoufra@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3243931628255723,
+                    48.82087921280803
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3243931628255723,
+            "lat": 48.82087921280803
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Potager du Clos",
+        "adresse": "Square du Clos Feuquières 30 rue Desnouettes",
+        "nom_gerant": "le potager du clos",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUVEBC",
+        "amenagements": "cabane terrasse en platelage bois 2 bacs en hauteur composteurs",
+        "mail_1": "lepotagerduclos@laposte.net",
+        "mail_2": null,
+        "internet_1": "http://Lepotagerduclos.wordpress.com",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.2905216908690087,
+                    48.836091245956325
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.2905216908690087,
+            "lat": 48.836091245956325
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Jardin du Dimanche",
+        "adresse": "Square Paul Didier 6 rue du colonel Manhes",
+        "nom_gerant": "Le potager pot à joncs",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "cabane composteur bacs hors sol pour consommable 3 zones de culture avec couche drainante mais que pour non consommables",
+        "mail_1": "potagerpotajoncs@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3210957593957793,
+                    48.8955323056233
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3210957593957793,
+            "lat": 48.8955323056233
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Les jardins partagés Labori Clignancourt",
+        "adresse": "9 avenue de la porte de Clignancourt",
+        "nom_gerant": null,
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "ZUG EVP",
+        "amenagements": "composteur cabane",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": "2021-12-28",
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3438775713463933,
+                    48.898368859661595
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3438775713463933,
+            "lat": 48.898368859661595
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le nid de l'Ortolan",
+        "adresse": "17 rue saint-médard",
+        "nom_gerant": "les jardiniers du 5ème",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DJS",
+        "statut_plu": null,
+        "amenagements": "digicode: 24D60 + valider",
+        "mail_1": "jardiniersdu5eme@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3501086847820836,
+                    48.843551962007844
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3501086847820836,
+            "lat": 48.843551962007844
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin de la Folie Titon",
+        "adresse": "28 rue Chanzy",
+        "nom_gerant": "Association de la Folie Titon",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur cabane récupérateur d'eau de pluie gite à insectes toiture végétalisée",
+        "mail_1": "la-folie-titon@outlook.fr",
+        "mail_2": null,
+        "internet_1": "https://association-folie-titon.blogspot.fr",
+        "internet_2": "https://twitter.com/AssoFolieTiton",
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3853425445619316,
+                    48.85267507139203
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3853425445619316,
+            "lat": 48.85267507139203
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "jardin partagé Alice Millat",
+        "adresse": "11 ter rue d'Alésia",
+        "nom_gerant": "association jardin partagé Alice millat",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DJS",
+        "statut_plu": null,
+        "amenagements": "une arrivée d'eau - une clôture - des gardes corps - un composteur",
+        "mail_1": "jpam.asso@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.335502899228015,
+                    48.827010508993084
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.335502899228015,
+            "lat": 48.827010508993084
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin de l’Aqueduc",
+        "adresse": "2 rue de l'Empreur Valentinien",
+        "nom_gerant": "Les Jardiniers de l’aqueduc",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur cabane mare ruches",
+        "mail_1": "jardin.aqueduc@gmail.com",
+        "mail_2": null,
+        "internet_1": "http://jardin-aqueduc.fr/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.338038873588089,
+                    48.82612015806693
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.338038873588089,
+            "lat": 48.82612015806693
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Jardin de Bonne",
+        "adresse": "5 rue Bellan",
+        "nom_gerant": "Aux cales pieds",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DLH",
+        "statut_plu": "espace libre à végétaliser",
+        "amenagements": "bacs sacs",
+        "mail_1": "jardindebonne@gmail.comet",
+        "mail_2": "ouisabelle@kelloucq.com",
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.346660739555013,
+                    48.86638783322588
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.346660739555013,
+            "lat": 48.86638783322588
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Montsouris",
+        "adresse": "2 rue Gazan",
+        "nom_gerant": "Ecole Elementaire 87, bd Arago                               Ecole Maternelle 77, rue de la tombe Issoire",
+        "type_espace_vert": "Conseil de Paris",
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "Chassis",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": "2021-10-08",
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3398072457016177,
+                    48.82398178595364
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3398072457016177,
+            "lat": 48.82398178595364
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "catherine labouré",
+        "adresse": "29 rue de Babylone",
+        "nom_gerant": "Association Val de Seine - Conseil de ParisN Nature -",
+        "type_espace_vert": "Conseil de Paris",
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": null,
+        "proprietaire_terrain": null,
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": "cpnvaldeseine@free.fr",
+        "mail_2": null,
+        "internet_1": "http://www.cpn-valdeseine.asso.fr/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.320189454812865,
+                    48.851564758432914
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.320189454812865,
+            "lat": 48.851564758432914
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Jardin Balanchine",
+        "adresse": "Square James Joyce 7 rue Georges Balanchine",
+        "nom_gerant": "Le Jardin Balanchine",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "cabane composteur Abri à insecte",
+        "mail_1": "contact@jardinbalanchine.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3737722478507486,
+                    48.836347326959824
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3737722478507486,
+            "lat": 48.836347326959824
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Serre aux Légumes",
+        "adresse": "57 av Flandre",
+        "nom_gerant": "C P N et S.L.C.",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUGEVP",
+        "amenagements": "composteur mare abri à insectes",
+        "mail_1": "cpnvaldeseine75@gmail.com",
+        "mail_2": "ass.locslc@wanadoo.fr",
+        "internet_1": "pn-valdeseine.asso.fr",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.372696133074561,
+                    48.88777009623042
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.372696133074561,
+            "lat": 48.88777009623042
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin partagé Tibhirine",
+        "adresse": "71 bis boulevard Voltaire",
+        "nom_gerant": "jardin partagé truillot",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "cabane grillagée composteurs bacs",
+        "mail_1": "jardinpartage.truillot@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": "2021-07-27",
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3756066478128095,
+                    48.86111271759496
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3756066478128095,
+            "lat": 48.86111271759496
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Georges Boudry",
+        "adresse": "Square Dunois 189 rue Chevaleret",
+        "nom_gerant": "CED 13FEDD Jeune",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "SIEMP",
+        "statut_plu": null,
+        "amenagements": "cabane",
+        "mail_1": "jardinpartageboudry@gmail.com",
+        "mail_2": null,
+        "internet_1": "https://jardinpartagegeorgesboudry.wordpress.com",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.36804579158709,
+                    48.83396378353718
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.36804579158709,
+            "lat": 48.83396378353718
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin partagé Marcadet Montcalm",
+        "adresse": "2 rue Montcalm",
+        "nom_gerant": "Jardin Partagé Marcadet Montcalm",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "bacs en cagette légères fournis par l'asso",
+        "mail_1": "jardinpartage2m@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.335310107788707,
+                    48.89176160852514
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.335310107788707,
+            "lat": 48.89176160852514
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Sahel",
+        "adresse": "60 rue du sahel",
+        "nom_gerant": "Broc bel R",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "20 bacs un abri de jardin une arrivée d'eau une clôture un panneau d'affichage un composteur",
+        "mail_1": "brocbelr.paris@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.407635487293591,
+                    48.8404407760389
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.407635487293591,
+            "lat": 48.8404407760389
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin de Quentin",
+        "adresse": "3 rue d aligre",
+        "nom_gerant": "Ligue de l'enseignement",
+        "type_espace_vert": null,
+        "type_jardin_partage": null,
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DJS",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": "maisondesensembles@ligueparis.org",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3772287098110865,
+                    48.84801699325202
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3772287098110865,
+            "lat": 48.84801699325202
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin'âges",
+        "adresse": "17 rue des Perichaux (entre square du Docteur Calmette et square Lefèvre)",
+        "nom_gerant": "Entr’Aide à domicile",
+        "type_espace_vert": "Autre",
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": "ZUG",
+        "amenagements": "composteur cabane",
+        "mail_1": "contact@entraide-dom.fr",
+        "mail_2": null,
+        "internet_1": "www.entraide-dom.fr",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.298749865153408,
+                    48.83027831865038
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.298749865153408,
+            "lat": 48.83027831865038
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Commun jardin",
+        "adresse": "Jardin Rosa Luxemburg 63 ter rue Riquet",
+        "nom_gerant": "Vergers Urbains",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUG",
+        "amenagements": "Local aquaponie",
+        "mail_1": "vergersurbains@gmail.com",
+        "mail_2": null,
+        "internet_1": "http://vergersurbains.org/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.36380261230756,
+                    48.8898074160027
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.36380261230756,
+            "lat": 48.8898074160027
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Les jardins de Beaugrenelle",
+        "adresse": "Sur le toit du centre commercial Beaugrenelle : 12 rue Linois (accessible par l’escalier extérieur rue de l’ingénieur Robert Keller, à côté de la piscine Keller)",
+        "nom_gerant": "Espaces",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "SCI Beaugrenelle",
+        "statut_plu": null,
+        "amenagements": "cabane",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": "https://www.association-espaces.org/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.2825156089618903,
+                    48.84855980050748
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.2825156089618903,
+            "lat": 48.84855980050748
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Richomme",
+        "adresse": "23 rue Richomme",
+        "nom_gerant": "La goutte verte",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUG",
+        "amenagements": "decaissement + SD + TV container gardes corps zone pavés enherbés",
+        "mail_1": "goutteverte@yahoo.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3508578515418175,
+                    48.8861934811186
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3508578515418175,
+            "lat": 48.8861934811186
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Centre social Annam",
+        "adresse": "4 rue d'Annam",
+        "nom_gerant": "Centre social Annam Conseil d'arrondissementF",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Conseil d'arrondissementF",
+        "statut_plu": "ZUG",
+        "amenagements": null,
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3940532814677082,
+                    48.86615993579195
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3940532814677082,
+            "lat": 48.86615993579195
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le potager de la Lune",
+        "adresse": "Square Jacques Bidault 18 rue de la Lune",
+        "nom_gerant": "Jardinières et jardiniers du 2éme",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "cabane composteur",
+        "mail_1": "potagerdelalune@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3500733576103876,
+                    48.86981114244029
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3500733576103876,
+            "lat": 48.86981114244029
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Au p'tit Vertbois",
+        "adresse": "Conservatoire des arts et métiers 5 rue Vaucanson",
+        "nom_gerant": "Régie de quartier Paris-Centre",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": null,
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": "contact@regiepariscentre.org",
+        "mail_2": null,
+        "internet_1": "http://regiepariscentre.org",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3566402126235966,
+                    48.86715997136756
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3566402126235966,
+            "lat": 48.86715997136756
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Au cœur de la roquette",
+        "adresse": "Square de la Roquette 143 rue de la Roquette",
+        "nom_gerant": "centre social et culturel solidarité roquette",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUVEBCpérimetre protection monuments historiques",
+        "amenagements": "Cabane grillagée bacs de culture composteurs récupérateur d'eau de pluie gite à insectes grainothèques",
+        "mail_1": "social@solidariteroquette.fr",
+        "mail_2": null,
+        "internet_1": "https://www.solidariteroquette.fr/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3844858580934627,
+                    48.85898642845321
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3844858580934627,
+            "lat": 48.85898642845321
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin des Deux Lauriers",
+        "adresse": "11 rue Claude Decaen",
+        "nom_gerant": "Gar'Eden",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "RFF",
+        "statut_plu": "ZUG",
+        "amenagements": "cabane composteurs récupérateur d'eau de pluie gites à insectes nichoirs à oiseaux grainothèque",
+        "mail_1": "gareden12@gmail.com",
+        "mail_2": null,
+        "internet_1": "https://jardindeuxlauriers.wordpress.com/",
+        "internet_2": "https://www.facebook.com/groups/462186695640205",
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.4013526307615636,
+                    48.834004604100905
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.4013526307615636,
+            "lat": 48.834004604100905
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "La Baleine Verte",
+        "adresse": "10 rue Erard",
+        "nom_gerant": "Autour de la baleine",
+        "type_espace_vert": "Autre",
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Paris Habitat",
+        "statut_plu": null,
+        "amenagements": "bacs compost mare récupérateur d'eau de pluie gites à insectes nichoirs à oiseaux broyeur toiture végétalisée serre",
+        "mail_1": "labaleineverte12@gmail.com",
+        "mail_2": null,
+        "internet_1": "https://www.autourdelabaleine.fr/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3843881170367554,
+                    48.84523845646624
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3843881170367554,
+            "lat": 48.84523845646624
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le jardin du 12",
+        "adresse": "22 rue Georges et Mai Politzer",
+        "nom_gerant": "Esperem",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUGELV",
+        "amenagements": "composteur cabane Récupération d'eau toilettes sèches jardin en trou de serrure (keyhole) gites à insectes nichoirs à oiseaux",
+        "mail_1": "aurelia.boulland@esperem.org",
+        "mail_2": null,
+        "internet_1": "https://www.esperem.org",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3916310809273593,
+                    48.84186688110303
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3916310809273593,
+            "lat": 48.84186688110303
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin des Thermopyles",
+        "adresse": "6 rue des thermopyles",
+        "nom_gerant": "Association Urbanisme et Démocratie Udé !",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "EVP",
+        "amenagements": null,
+        "mail_1": "udebureau@rezo.netu.d.free.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3192899211425235,
+                    48.83226948884328
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3192899211425235,
+            "lat": 48.83226948884328
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin partagé Soleil Blaise",
+        "adresse": "Square des Cardeurs",
+        "nom_gerant": "Centre social Soleil Blaise",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "RIVP+EFIDIS",
+        "statut_plu": null,
+        "amenagements": "compoteurs collectifs dpe",
+        "mail_1": "soleilblaise@free.fr",
+        "mail_2": null,
+        "internet_1": "http://soleilblaise.org/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.407219234473548,
+                    48.85830145010566
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.407219234473548,
+            "lat": 48.85830145010566
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin du coin",
+        "adresse": "18 rue du Chalet",
+        "nom_gerant": "jardin du coin",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "Emplacement réservé",
+        "amenagements": "cabane composteur espace de convivialité bacs sacs",
+        "mail_1": "jardinducoin10@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3734014902052647,
+                    48.87382881369086
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3734014902052647,
+            "lat": 48.87382881369086
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le jardin du monde",
+        "adresse": "Cité Internationale Universitaire de Paris 27 boulevard Jourdan",
+        "nom_gerant": "Cité Internationale Universitaire de Paris/Assemblée des Délégués de Comités de Résidents",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "Cité Internationale Unversitaire",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": "jardindumonde14@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.337323779169218,
+                    48.82042520714961
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.337323779169218,
+            "lat": 48.82042520714961
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Porte d'Auteuil",
+        "adresse": "PC16 Auteuil, 77 boulevard Montmorency",
+        "nom_gerant": "Horizon Verdure 16eme sud",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "SNCF réseau",
+        "statut_plu": null,
+        "amenagements": null,
+        "mail_1": "jardinpartageauteuil@gmail.com",
+        "mail_2": null,
+        "internet_1": "http://www.horizonverdure.sitew.com",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.2614304455372194,
+                    48.850155724757315
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.2614304455372194,
+            "lat": 48.850155724757315
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Baudélire",
+        "adresse": "27 rue Baudelique",
+        "nom_gerant": "Vert à soi",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil de Paris",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DAC affecté temporairement à la DEVE",
+        "statut_plu": "ZUG",
+        "amenagements": "composteur cabane",
+        "mail_1": "jardinbaudelire@gmail.com",
+        "mail_2": null,
+        "internet_1": "https://jardinbaudelire.wordpress.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.347573187346851,
+                    48.89324636012352
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.347573187346851,
+            "lat": 48.89324636012352
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Couleurs et Senteurs",
+        "adresse": "7 Passage Marcel Landowski",
+        "nom_gerant": "Régie de quartier du 19°",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur cabane",
+        "mail_1": "info@rqparis19.org",
+        "mail_2": null,
+        "internet_1": "https://www.rqparis19.org/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3712213313599824,
+                    48.88729493777007
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3712213313599824,
+            "lat": 48.88729493777007
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin de la Butte Bergeyre",
+        "adresse": "78 rue Georges Lardennois",
+        "nom_gerant": "Les Habitants de la Butte Bergeyre",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUGELV",
+        "amenagements": "cabane ruches (mais pas sur la partie appartenant à la ville)",
+        "mail_1": "jardinbergeyre@gmail.com",
+        "mail_2": null,
+        "internet_1": "https://www.habitants-butte-bergeyre.fr/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3757588078042766,
+                    48.87721264639525
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3757588078042766,
+            "lat": 48.87721264639525
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin du Clos des Blancs Manteaux",
+        "adresse": "21 rue des Blancs Manteaux",
+        "nom_gerant": "Les jardiniers du 4ème",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "PSMV MaraisEspace Vert à réaliser",
+        "amenagements": "composteur coffre",
+        "mail_1": "jardiniers4@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.356844043861392,
+                    48.85900635426953
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.356844043861392,
+            "lat": 48.85900635426953
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Poireau Agile",
+        "adresse": "Jardin Villemin 6 rue des Récollets",
+        "nom_gerant": "Ville Mains Jardins",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUVEBC",
+        "amenagements": "composteurs Récupération d'eau cabane table de jardinage broyeur",
+        "mail_1": "ville_mains_jardins@yahoo.fr",
+        "mail_2": null,
+        "internet_1": "sites.google.com/site/poireauagile",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.362185008824438,
+                    48.87443394633441
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.362185008824438,
+            "lat": 48.87443394633441
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Bela Bartok",
+        "adresse": "26 place de Brazzaville",
+        "nom_gerant": "Ecole élémentaire 25, rue Rouelle - Centre de loisirs élémentaire Rouelle - Ecole maternelle et élémentaire Emeriau",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "2 coffres à outils",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.285665767845934,
+                    48.85097542093543
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.285665767845934,
+            "lat": 48.85097542093543
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Jardin du Carrousel",
+        "adresse": "Place Gilbert Perroy",
+        "nom_gerant": "Le Jardin du Carrousel",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "décaissement + apport de TV sur 30 à 80cm + système drainant - 1BA - 1 coffre - 1 panneau - 1 clôture en ganivelle",
+        "mail_1": "jardinducarrousel@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.325516609419919,
+                    48.832362530316196
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.325516609419919,
+            "lat": 48.832362530316196
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin des Deux Nèthes",
+        "adresse": "Square des deux Nèthes 24 avenue de Clichy",
+        "nom_gerant": "Cultures et Potager 17/18",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur cabane",
+        "mail_1": "culturesetpotager@orange.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3267854747337924,
+                    48.885280533908784
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3267854747337924,
+            "lat": 48.885280533908784
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Colmar Thionville",
+        "adresse": "1bis rue de Thionville",
+        "nom_gerant": "Atoll 75",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "cabane composteur",
+        "mail_1": "atoll75@orange.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.380422341557613,
+                    48.887723292646704
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.380422341557613,
+            "lat": 48.887723292646704
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin partagé Stalingrad",
+        "adresse": "240 bd de la Villette",
+        "nom_gerant": "Jardin Partagé Stalingrad",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUG",
+        "amenagements": "cabane bacs bacs pmr",
+        "mail_1": "jpstalingrad@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.365564622997767,
+                    48.88451516896817
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.365564622997767,
+            "lat": 48.88451516896817
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le p'tit jardin d'Eugénie",
+        "adresse": "23 rue des lilas",
+        "nom_gerant": "Le p'tit jardin d'Eugénie",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUG",
+        "amenagements": "table de jardinage",
+        "mail_1": "jardindeugenie@gmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3959724284229513,
+                    48.878860645593946
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3959724284229513,
+            "lat": 48.878860645593946
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le ver têtu",
+        "adresse": "Jardin Ver Têtu, 2 rue Bernard tétu",
+        "nom_gerant": "Régie de quartier du 19°",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUG",
+        "amenagements": "cabane composteur",
+        "mail_1": "info@rqparis19.org",
+        "mail_2": null,
+        "internet_1": "https://www.rqparis19.org/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.376422256249392,
+                    48.8949073584909
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.376422256249392,
+            "lat": 48.8949073584909
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Elie Faure",
+        "adresse": "Résidence RIVP Elie Faure 1 rue Elie Faure",
+        "nom_gerant": "Ville en herbes",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Autre",
+        "domaine": "Hors Ville de Paris",
+        "proprietaire_terrain": "RIVP",
+        "statut_plu": "ZUG",
+        "amenagements": "lombricompost hôtel à insectes",
+        "mail_1": "villeenherbes@gmail.com",
+        "mail_2": null,
+        "internet_1": "http://villeenherbes.over-blog.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.415492703085865,
+                    48.84541825181083
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.415492703085865,
+            "lat": 48.84541825181083
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin Malin du 13ème",
+        "adresse": "Square Boutroux 20 rue Franc Nohain",
+        "nom_gerant": "jardin malin du 13ème",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUG périmètre de localisation d'équipement... d'intérêt général à réaliser",
+        "amenagements": "composteur cabane Récupération d'eau",
+        "mail_1": "jardinmalin@hotmail.fr",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.375203424388331,
+                    48.821904066510925
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.375203424388331,
+            "lat": 48.821904066510925
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jardin partagé de la Poterne des Peupliers",
+        "adresse": "Centre d’animation de La Poterne des Peupliers 1 rue Gouthière",
+        "nom_gerant": "Ligue de l'Enseignement",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DJS",
+        "statut_plu": "ZUG",
+        "amenagements": "composteur, toit végétalisé",
+        "mail_1": "capoternedespeupliers@ligueparis.org",
+        "mail_2": null,
+        "internet_1": "https://aujardin.jimdofree.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3512037862816477,
+                    48.82070521941199
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3512037862816477,
+            "lat": 48.82070521941199
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Duranton",
+        "adresse": "1 rue Duranton",
+        "nom_gerant": "Ecole élémentaire, 56 Avenue Félix Faure - C.L maternelle 56 Avenue Félix Faure",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "Bacs cylindriques",
+        "mail_1": null,
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.2852096124848646,
+                    48.8410720083609
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.2852096124848646,
+            "lat": 48.8410720083609
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le Jardin des oursons de saint Lambert",
+        "adresse": "Square Saint Lambert, 2 rue Jean Formige",
+        "nom_gerant": "le jardin des oursons saint Lambert",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUVEBCinscrit aux monuments historiques",
+        "amenagements": "cabane terrasse en platelage bois composteurs",
+        "mail_1": "jardindesoursons@gmail.com",
+        "mail_2": null,
+        "internet_1": "http://www.lejardindesoursons.sitew.fr/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.297522496966647,
+                    48.841739957697754
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.297522496966647,
+            "lat": 48.841739957697754
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Leroy Sème",
+        "adresse": "2 bis cité Leroy",
+        "nom_gerant": "Leroy Sème",
+        "type_espace_vert": null,
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": "ZUV",
+        "amenagements": "composteur recup eau cabane mare toit végétalisé Oyas",
+        "mail_1": "leroyseme@gmail.com",
+        "mail_2": null,
+        "internet_1": "http://leroyseme.canalblog.com/",
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3929043437209314,
+                    48.87083609220711
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3929043437209314,
+            "lat": 48.87083609220711
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Le petit paradis",
+        "adresse": "5 rue Léon Schwartzenberg",
+        "nom_gerant": "Le Pari's des faubourgs",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "décaissement+ système drainant + TV - 8bacs - 2 coffres - 1 panneau",
+        "mail_1": "acceuil@lepfb.net",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3532746717129425,
+                    48.87569666435602
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3532746717129425,
+            "lat": 48.87569666435602
+        },
+        "evenements": []
+    },
+    {
+        "nom_ev": "Jean Aicard",
+        "adresse": "16 avenue Jean Aicard",
+        "nom_gerant": "Conseil d'arrondissementTTP Hôpitaux Saint Maurice",
+        "type_espace_vert": "Conseil d'arrondissement",
+        "type_jardin_partage": "Conseil d'arrondissement",
+        "domaine": "Ville de Paris",
+        "proprietaire_terrain": "DEVE",
+        "statut_plu": null,
+        "amenagements": "4 plessis 2m x 2 m - local",
+        "mail_1": "mariondeltell@hotmail.com",
+        "mail_2": null,
+        "internet_1": null,
+        "internet_2": null,
+        "date_fermeture": null,
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    2.3809973932823434,
+                    48.86557589382586
+                ],
+                "type": "Point"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.3809973932823434,
+            "lat": 48.86557589382586
+        },
+        "evenements": []
+    }
+]
